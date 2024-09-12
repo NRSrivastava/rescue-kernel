@@ -1,2 +1,2 @@
 # rescue-kernel
-Kernel in Rust
+Kernel made in Rust
